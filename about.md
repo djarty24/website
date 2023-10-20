@@ -15,6 +15,6 @@ title: About Me
     <p></p>
     <h2>That's all for now, but feel free to keep looking around my website! You can <a href="/index.html" class="hover-underline-animation"><em class="blue">check out my blog</em></a>, 
         <a href="/resume.pdf" target="_blank" class="hover-underline-animation"><em class="blue">resume</em></a>, 
-        or <a href="/contact/" class="hover-underline-animation"><em class="blue">shoot me an email</em></a> if you have any questions.</h2>
+        or <a href="/contact.html" class="hover-underline-animation"><em class="blue">shoot me an email</em></a> if you have any questions.</h2>
     <h2><br>Happy exploring!</h2>
 </div>
