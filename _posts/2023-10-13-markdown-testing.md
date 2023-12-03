@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Markdown Testing"
+title:  "Markdown testing"
 date:   2023-10-13 12:32:50 -0700
 tags: [markdown, jekyll]
 ---
