@@ -1,6 +1,6 @@
 ---
 layout: page
-#permalink: /contact
+permalink: /contact
 ---
 
 You can email me at **24.revati@gmail.com**
