@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about
+#permalink: /about
 ---
 
 👋 Hey there! <br /><br /><br />
