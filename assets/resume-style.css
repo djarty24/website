@@ -1,0 +1,120 @@
+.resume-header-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.resume-header-container h1{
+    font-size: 22px;
+}
+
+.resume-header-container h2{
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.resume-header-container .resume-header-right{
+    width: 40%
+}
+
+.resume-header-container .resume-header-right img{
+    width: 15px;
+}
+
+.resume-header-container .resume-header-right ul{
+    list-style-type: none;
+}
+
+.resume-header-container .resume-header-right ul li{
+    line-height: 1.25em;
+}
+
+.resume-header-container .resume-header-right ul li a{
+    color: #000000;
+    text-decoration: none;
+}
+
+.resume-header-container .resume-header-right ul li a:hover{
+    color: #696969;
+}
+
+.resume-skills-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.resume-skills-container h3{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.resume-skills-container .resume-skills-right{
+    width: 70%;
+}
+
+.resume-experience-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.resume-experience-container h3{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.resume-experience-container .resume-experience-right{
+    width: 70%;
+}
+
+.experience-data{
+    display: flex;
+    justify-content: space-between;
+}
+
+.resume-experience{
+    padding-bottom: 10px;
+}
+
+.experience-data h4{
+    font-style: italic;
+    font-weight: 400;
+}
+
+.resume-honors-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.resume-honors-container h3{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.resume-honors-container .resume-honors-right{
+    width: 70%;
+}
+
+.honor-data{
+    display: flex;
+    justify-content: space-between;
+}
+
+.honor-data h4{
+    font-style: italic;
+    font-weight: 400;
+}
+
+.resume-languages-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.resume-languages-container h3{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.resume-languages-container .resume-languages-right{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+}
