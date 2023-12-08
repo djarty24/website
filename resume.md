@@ -13,9 +13,9 @@ permalink: /resume
         </div>
         <div class="resume-header-right">
             <ul>
-                <li><img src="/assets/email-icon.png"> <a href="{{ site.author.email }}" target="_blank">{{ site.author.email }}</a></li>
-                <li><img src="/assets/web-icon.png"> <a href="{{ site.author.website }}" target="_blank">{{ site.author.website }}</a></li>
-                <li><img src="/assets/github-icon.png"> <a href="{{ site.author.github }}" target="_blank">{{ site.author.github }}</a></li>
+                <li><img src="/assets/img/email-icon.png"> <a href="{{ site.author.email }}" target="_blank">{{ site.author.email }}</a></li>
+                <li><img src="/assets/img/web-icon.png"> <a href="{{ site.author.website }}" target="_blank">{{ site.author.website }}</a></li>
+                <li><img src="/assets/img/github-icon.png"> <a href="{{ site.author.github }}" target="_blank">{{ site.author.github }}</a></li>
             </ul>
         </div>
     </div>
