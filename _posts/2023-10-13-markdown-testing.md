@@ -8,7 +8,7 @@ tags: [markdown, jekyll]
 Markdown template to test everything, courtesy of Ismaestro
 
 <p align="center">
-  <a href="https://example.com/"><img src="/profile.png" alt="Logo" width=72 height=72></a>
+  <a href="https://example.com/"><img src="/assets/img/profile.png" alt="Logo" width=72 height=72></a>
   <h3 align="center">Logo</h3>
   <p align="center">Short description</p>
 </p>
